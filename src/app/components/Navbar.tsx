@@ -7,9 +7,7 @@ import { HiMenuAlt3 } from 'react-icons/hi';
 export default function Navbar(){
 
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const handleClick = () => {
-
-}
+ 
   
   return (
     <div className="jsx-1acfa59fff5c82b4 fixed top-0 left-0 right-0 z-50 transition-all duration-300 bg-black/80 backdrop-blur-md shadow-lg shadow-purple-500/10">
@@ -58,9 +56,5 @@ export default function Navbar(){
      
     </div>
   )
-}
-
-function setShowCart(arg0: boolean) {
-  throw new Error('Function not implemented.');
 }
 

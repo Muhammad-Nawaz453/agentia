@@ -1,7 +1,5 @@
 "use client"
 import React from 'react'
-import Image from "next/image";
-import Link from "next/link";
 import { RiRobot2Line } from "react-icons/ri";
 import {TypeAnimation} from 'react-type-animation'
 import { IoIosArrowForward } from "react-icons/io";
